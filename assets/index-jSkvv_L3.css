@@ -1,0 +1,5 @@
+.fade {
+    background: linear-gradient(to bottom,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d,#f77737,#fcaf45,#ffdc80);
+    width: 100%;
+    height: 100vh
+}
